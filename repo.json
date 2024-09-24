@@ -6,7 +6,7 @@
     {
       "name": "Streamed SU Plugin",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/yourusername/streamed-su-plugin/main/cloudstream3-plugins/streamed-su-plugin/StreamedSuPlugin.kt",
+      "url": "https://raw.githubusercontent.com/YashChaudharyGitHub/StreamedSuPlugin/main/cloudstream3-plugins/streamed-su-plugin/StreamedSuPlugin.kt",
       "package": "com.cloudstream.plugins.streamedsu",
       "description": "Stream free-to-air sports from streamed.su",
       "iconUrl": "https://example.com/plugin-icon.png"
