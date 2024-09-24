@@ -1,15 +1,8 @@
 {
-  "name": "Streamed SU Plugin",
-  "description": "A plugin to fetch sports streams from streamed.su",
-  "manifestVersion": 1,
-  "pluginLists": [
-    {
-      "name": "Streamed SU Plugin",
-      "version": "1.0",
-      "url": "https://raw.githubusercontent.com/YashChaudharyGitHub/StreamedSuPlugin/main/cloudstream3-plugins/streamed-su-plugin/StreamedSuPlugin.kt",
-      "package": "com.cloudstream.plugins.streamedsu",
-      "description": "Stream free-to-air sports from streamed.su",
-      "iconUrl": "https://example.com/plugin-icon.png"
-    }
-  ]
+    "name": "Streamed SU Plugin",
+    "description": "A plugin to fetch sports streams from streamed.su ",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/YashChaudharyGitHub/StreamedSuPlugin/main/repo.json"
+    ]
 }
